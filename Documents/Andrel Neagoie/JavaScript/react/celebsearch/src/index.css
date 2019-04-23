@@ -1,0 +1,15 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: linear-gradient(to right, #1437E2, #00BF8D);
+}
+
+h1{
+  padding: 0;
+}
+
+.color{
+  background: #14E2C8;
+}
+
